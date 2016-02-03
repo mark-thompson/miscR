@@ -1,0 +1,12 @@
+Package: miscR
+Type: Package
+Title: miscR
+Description: An assortment of (sometimes) useful R functions
+Version: 0.0.1
+Author: Mark Thompson <mthompson@2u.com>
+    Maintainer: Mark Thompson <mthompson@2u.com>
+    Depends:
+    R (>= 3.0.3)
+Imports:
+License: GPL (>= 2) | MIT + file LICENSE
+URL: https://github.com/mark-thompson/miscR
